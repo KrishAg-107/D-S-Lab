@@ -1,1 +1,1 @@
-Lab
+Lab Assignments
