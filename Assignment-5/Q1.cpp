@@ -137,14 +137,6 @@ class SLL{
 
 int main(){
     SLL L;
-    L.insert_begg(5);
-    L.insert_end(10);
-    L.insert_begg(2);
-    L.insert_begg(3);
-    L.display();
-    L.find_mid();
-    L.display();
-
     int choice, value, key;
     while(true) {
         cout << "1.Insert Beginning 2.Insert End 3.Insert After 4.Insert Before\n";
@@ -163,4 +155,5 @@ int main(){
         }
     }
     return 0;
+
 }
