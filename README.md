@@ -1,1 +1,1 @@
-# D-S-Lab
+Data Structures Lab Assignments
